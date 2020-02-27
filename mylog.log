@@ -1,0 +1,24 @@
+2020-02-27 09:21:59 INFO  StudentMain:17 - Started
+2020-02-27 09:22:20 INFO  TrainingProgramImpl:61 - Skills added are : [C]
+2020-02-27 09:22:20 INFO  AdminController:91 - Added trainer skills : TR180201
+2020-02-27 10:26:08 INFO  StudentMain:13 - Started
+2020-02-27 10:38:12 INFO  StudentMain:13 - Started
+2020-02-27 10:50:36 INFO  StudentMain:13 - Started
+2020-02-27 10:52:26 INFO  StudentMain:13 - Started
+2020-02-27 11:27:07 INFO  StudentMain:13 - Started
+2020-02-27 11:27:08 INFO  StudentMain:13 - Started
+2020-02-27 11:27:32 INFO  StudentMain:13 - Started
+2020-02-27 11:28:15 INFO  StudentMain:13 - Started
+2020-02-27 11:28:29 INFO  StudentController:66 - Adding Feedback of ST_2001 for training program TP_201
+2020-02-27 11:28:54 INFO  StudentMain:13 - Started
+2020-02-27 11:29:04 INFO  StudentController:66 - Adding Feedback of ST_2002 for training program TP_201
+2020-02-27 11:30:37 INFO  StudentMain:13 - Started
+2020-02-27 11:30:47 INFO  StudentMain:13 - Started
+2020-02-27 11:31:02 INFO  StudentController:66 - Adding Feedback of ST_2002 for training program TP_201
+2020-02-27 11:31:57 INFO  StudentMain:13 - Started
+2020-02-27 11:37:27 INFO  StudentMain:13 - Started
+2020-02-27 11:41:19 INFO  StudentMain:13 - Started
+2020-02-27 13:07:59 INFO  StudentMain:13 - Started
+2020-02-27 14:03:36 INFO  StudentMain:13 - Started
+2020-02-27 14:06:39 INFO  StudentController:66 - Adding Feedback of ST_2001 for training program TP_201
+2020-02-27 14:07:50 INFO  CoordinatorService:57 - Add Course : $
